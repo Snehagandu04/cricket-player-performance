@@ -1,10 +1,10 @@
 # 🏏 Cricket Player Performance Analysis
 
 Hi there 👋 I'm **Sneha Gandu**, an aspiring Data Analyst.  
-This project is a simple and fun analysis of cricket player performance — created to practice data analysis, visualization, and storytelling using Python.  
+This project is a simple and fun analysis of cricket player performance created to practice data analysis, visualization, and storytelling using Python.  
 
 ## 📘 Overview
-The goal of this project is to analyze batting and bowling data to find interesting insights about players — like who scores consistently, who takes the most wickets, and how performance varies across matches.  
+The goal of this project is to analyze batting and bowling data to find interesting insights about players - like who scores consistently, who takes the most wickets, and how performance varies across matches.  
 
 This project helped me practice:
 - Data cleaning and reading datasets  
