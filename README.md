@@ -27,8 +27,7 @@ This project helped me practice:
 
 
 ## 🚀 How to Run
-1. Install required libraries bash
-   pip install -r requirements.txt
-2.Run the script using python src analysis.py
-3.Open the notebook in jupyter
+1. Install required libraries using pip install -r requirements.txt
+2. Run the script using python src analysis.py
+3. Open the notebook in jupyter
 
