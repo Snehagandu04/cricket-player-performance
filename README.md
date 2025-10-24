@@ -1,33 +1,98 @@
-# 🏏 Cricket Player Performance Analysis
+🏏 Cricket Player Performance Analysis
 
-Hi there 👋 I'm **Sneha Gandu**, an aspiring Data Analyst.  
-This project is a simple and fun analysis of cricket player performance created to practice data analysis, visualization, and storytelling using Python.  
-
-## 📘 Overview
-The goal of this project is to analyze batting and bowling data to find interesting insights about players - like who scores consistently, who takes the most wickets, and how performance varies across matches.  
-
-This project helped me practice:
-- Data cleaning and reading datasets  
-- Exploratory Data Analysis (EDA)  
-- Creating visualizations using **Matplotlib** and **Seaborn**  
-- Interpreting data-driven insights clearly  
-
-## 🗂️ Folder Structure
-| Folder | Description |
-| data| Contains the datasets batting.csv and bowling.csv |
-| src | Python scripts for the analysis (analysis.py) |
-| notebooks | Jupyter notebook for step-by-step exploration |
-| images | Saved plots and graphs |
-
-## ⚙️ Tools & Libraries Used
-- **Python**
-- **Pandas, Matplotlib, Seaborn**
-- **Excel** (for data creation)
-- **GitHub** (for project sharing)
+Hi there 👋 I'm Sneha Gandu, an aspiring Data Analyst.
+This project is a simple and fun analysis of cricket player performance - built to practice data cleaning, exploratory data analysis (EDA), visualization, and storytelling with Python.
 
 
-## 🚀 How to Run
-1. Install required libraries using pip install -r requirements.txt
-2. Run the script using python src analysis.py
-3. Open the notebook in jupyter
+🔍 Overview
+
+The goal of this project is to explore and analyze batting and bowling data to discover interesting insights about players, such as:
+
+Who scores most consistently? 📈
+
+Which bowlers take the most wickets? 🎯
+
+How performance varies across different matches and formats ⚖
+
+This project helped me practice real-world data analysis skills using Python and its popular libraries.
+
+
+🧰 Skills & Tools Used
+
+🧹 Data Cleaning & Preprocessing
+
+📊 Exploratory Data Analysis (EDA)
+
+📈 Data Visualization (Matplotlib, Seaborn)
+
+🧮 Statistical Insights & Comparisons
+
+🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+📂 Datasets
+
+batting.csv → Contains players’ batting statistics (matches, runs, strike rate, etc.)
+
+bowling.csv → Contains bowling statistics (overs, wickets, economy rate, etc.)
+
+⚙ How to Run the Project
+
+You can explore or run this project in two simple ways:
+
+🧠 Option 1: View directly on GitHub
+
+If you're just here to see my work, you can read through the code and outputs once I upload my analysis file - no setup needed!
+
+
+💻 Option 2: Run it on your computer
+
+If you’d like to try running the project yourself, follow these easy steps 👇
+
+1. Download the files
+
+Click the green Code button → Download ZIP
+
+Extract the ZIP folder on your computer
+
+
+
+2. Open the project in VS Code or Jupyter Notebook
+
+You’ll see the data files: batting.csv and bowling.csv
+
+
+
+3. Run the analysis (once uploaded)
+
+Open the analysis file (analysis.py or .ipynb)
+
+Run the code cells to see graphs and insights
+
+
+📊 Project Files
+
+File	Description
+
+README.md	Project documentation (this file)
+batting.csv	Batting data
+bowling.csv	Bowling data
+.gitignore	Files to be ignored by GitHub
+
+
+🏆 Key Learnings
+
+Data preprocessing and handling missing values
+
+Creating meaningful visualizations to tell a story
+
+Drawing data-driven conclusions from EDA
+
+Structuring and documenting a data analytics project on GitHub
+
+💬 Contact
+
+👩‍💻 Sneha Gandu
+📫 GitHub: Snehagandu04
+
+Made with ❤ using Python and curiosity.
 
