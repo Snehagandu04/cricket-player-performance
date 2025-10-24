@@ -5,7 +5,7 @@ This project is a simple and fun analysis of cricket player performance - built 
 
 
 
-🔍 Overview
+    🔍 Overview
 
 The goal of this project is to explore and analyze batting and bowling data to discover interesting insights about players, such as:
 
@@ -19,7 +19,7 @@ This project helped me practice real-world data analysis skills using Python and
 
 
 
-🧰 Skills & Tools Used
+    🧰 Skills & Tools Used
 
 🧹 Data Cleaning & Preprocessing
 
@@ -33,13 +33,14 @@ This project helped me practice real-world data analysis skills using Python and
 
 
 
-📂 Datasets
+    📂 Datasets
 
 batting.csv → Contains players’ batting statistics (matches, runs, strike rate, etc.)
 
 bowling.csv → Contains bowling statistics (overs, wickets, economy rate, etc.)
 
-⚙ How to Run the Project
+
+   ⚙ How to Run the Project
 
 You can explore or run this project in two simple ways:
 
@@ -75,7 +76,7 @@ Run the code cells to see graphs and insights
 
 
 
-📊 Project Files
+    📊 Project Files
 
 File	Description
 
@@ -86,7 +87,7 @@ bowling.csv	Bowling data
 
 
 
-🏆 Key Learnings
+    🏆 Key Learnings
 
 Data preprocessing and handling missing values
 
@@ -97,7 +98,7 @@ Drawing data-driven conclusions from EDA
 Structuring and documenting a data analytics project on GitHub
 
 
-💬 Contact
+    💬 Contact
 
 👩‍💻 Sneha Gandu
 📫 GitHub: Snehagandu04
