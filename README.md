@@ -5,7 +5,7 @@ This project is a simple and fun analysis of cricket player performance - built 
 
 
 
-    🔍 Overview
+  🔍 Overview
 
 The goal of this project is to explore and analyze batting and bowling data to discover interesting insights about players, such as:
 
@@ -40,7 +40,7 @@ batting.csv → Contains players’ batting statistics (matches, runs, strike ra
 bowling.csv → Contains bowling statistics (overs, wickets, economy rate, etc.)
 
 
-   ⚙ How to Run the Project
+    ⚙ How to Run the Project
 
 You can explore or run this project in two simple ways:
 
