@@ -1,4 +1,5 @@
 🏏 Cricket Player Performance Analysis
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xDkYIt42La-wxsHpzvYhopcNd7OKAV1W?usp=sharing)
 
 Hi there 👋 I'm Sneha Gandu, an aspiring Data Analyst.
 This project is a simple and fun analysis of cricket player performance - built to practice data cleaning, exploratory data analysis (EDA), visualization, and storytelling with Python.
