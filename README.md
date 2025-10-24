@@ -4,6 +4,7 @@ Hi there 👋 I'm Sneha Gandu, an aspiring Data Analyst.
 This project is a simple and fun analysis of cricket player performance - built to practice data cleaning, exploratory data analysis (EDA), visualization, and storytelling with Python.
 
 
+
 🔍 Overview
 
 The goal of this project is to explore and analyze batting and bowling data to discover interesting insights about players, such as:
@@ -15,6 +16,7 @@ Which bowlers take the most wickets? 🎯
 How performance varies across different matches and formats ⚖
 
 This project helped me practice real-world data analysis skills using Python and its popular libraries.
+
 
 
 🧰 Skills & Tools Used
@@ -29,6 +31,8 @@ This project helped me practice real-world data analysis skills using Python and
 
 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
+
+
 📂 Datasets
 
 batting.csv → Contains players’ batting statistics (matches, runs, strike rate, etc.)
@@ -42,6 +46,7 @@ You can explore or run this project in two simple ways:
 🧠 Option 1: View directly on GitHub
 
 If you're just here to see my work, you can read through the code and outputs once I upload my analysis file - no setup needed!
+
 
 
 💻 Option 2: Run it on your computer
@@ -69,6 +74,7 @@ Open the analysis file (analysis.py or .ipynb)
 Run the code cells to see graphs and insights
 
 
+
 📊 Project Files
 
 File	Description
@@ -77,6 +83,7 @@ README.md	Project documentation (this file)
 batting.csv	Batting data
 bowling.csv	Bowling data
 .gitignore	Files to be ignored by GitHub
+
 
 
 🏆 Key Learnings
@@ -88,6 +95,7 @@ Creating meaningful visualizations to tell a story
 Drawing data-driven conclusions from EDA
 
 Structuring and documenting a data analytics project on GitHub
+
 
 💬 Contact
 
